@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{58DFC3F2-DA22-4CA1-BFBC-ED5FC1DD007E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{C9AC05F8-089C-4329-B907-300007B0E7F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58DFC3F2-DA22-4CA1-BFBC-ED5FC1DD007E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58DFC3F2-DA22-4CA1-BFBC-ED5FC1DD007E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58DFC3F2-DA22-4CA1-BFBC-ED5FC1DD007E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58DFC3F2-DA22-4CA1-BFBC-ED5FC1DD007E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AC05F8-089C-4329-B907-300007B0E7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AC05F8-089C-4329-B907-300007B0E7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AC05F8-089C-4329-B907-300007B0E7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AC05F8-089C-4329-B907-300007B0E7F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
